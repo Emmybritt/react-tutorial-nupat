@@ -38,6 +38,7 @@ const App = () => {
         </div>
       </div>
       <ChangeNameComponent name={name} changeName={ChangeName} />
+      <a href="http://localhost:3000/">Go to website</a>
     </>
   )
 }
